@@ -28,6 +28,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0004-median-of-two-sorted-arrays](https://github.com/InzmamKhan/Leetcode-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/InzmamKhan/Leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/InzmamKhan/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/InzmamKhan/Leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/InzmamKhan/Leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
@@ -118,6 +119,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0011-container-with-most-water](https://github.com/InzmamKhan/Leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/InzmamKhan/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
