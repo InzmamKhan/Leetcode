@@ -1,4 +1,4 @@
-# LeetCode-Java
+# LeetCode
 
 This repository serves as a personal archive for Java-based solutions to various LeetCode challenges. It documents my progress in mastering data structures and algorithms, focusing on clean, efficient code and serving as a quick-reference guide for technical interview preparation.
 
