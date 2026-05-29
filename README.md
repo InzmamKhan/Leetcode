@@ -36,6 +36,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
@@ -116,6 +117,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/InzmamKhan/Leetcode-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/InzmamKhan/Leetcode-java/tree/main/0190-reverse-bits/) | Easy |
 ## Two Pointers
@@ -179,6 +181,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +213,8 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0100-same-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
