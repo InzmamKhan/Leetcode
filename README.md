@@ -43,6 +43,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
+| [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -159,6 +160,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0011-container-with-most-water](https://github.com/InzmamKhan/Leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
+| [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/InzmamKhan/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
+| [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
