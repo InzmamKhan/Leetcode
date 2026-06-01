@@ -87,6 +87,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0070-climbing-stairs](https://github.com/InzmamKhan/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/InzmamKhan/Leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/InzmamKhan/Leetcode-java/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0029-divide-two-integers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/InzmamKhan/Leetcode-java/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
