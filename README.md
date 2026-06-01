@@ -229,6 +229,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/InzmamKhan/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0183-customers-who-never-order](https://github.com/InzmamKhan/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
