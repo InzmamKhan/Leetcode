@@ -76,6 +76,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0142-linked-list-cycle-ii](https://github.com/InzmamKhan/Leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0021-merge-two-sorted-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/InzmamKhan/Leetcode-java/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
