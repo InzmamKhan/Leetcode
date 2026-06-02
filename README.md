@@ -43,6 +43,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -161,6 +162,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/InzmamKhan/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
