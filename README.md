@@ -100,6 +100,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0202-happy-number](https://github.com/InzmamKhan/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/InzmamKhan/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/InzmamKhan/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
