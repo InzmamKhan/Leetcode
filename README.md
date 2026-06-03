@@ -232,6 +232,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0113-path-sum-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0113-path-sum-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0113-path-sum-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0100-same-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/InzmamKhan/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
