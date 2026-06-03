@@ -44,6 +44,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/InzmamKhan/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -62,6 +63,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/InzmamKhan/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/InzmamKhan/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Linked List
@@ -201,6 +203,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/InzmamKhan/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/InzmamKhan/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
