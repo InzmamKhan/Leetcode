@@ -139,6 +139,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0035-search-insert-position](https://github.com/InzmamKhan/Leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/InzmamKhan/Leetcode-java/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/InzmamKhan/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -318,4 +319,8 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/InzmamKhan/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
