@@ -102,6 +102,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/InzmamKhan/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/InzmamKhan/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
@@ -114,6 +115,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0203-remove-linked-list-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/InzmamKhan/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
