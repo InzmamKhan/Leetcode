@@ -8,8 +8,8 @@ This repository serves as a personal archive for Java-based solutions to various
 
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | 53 | March 2026 |
-| 🟡 **Medium** | 31 | March 2026 |
+| 🟢 **Easy** | 60 | March 2026 |
+| 🟡 **Medium** | 34 | March 2026 |
 | 🔴 **Hard** | 6 | March 2026 |
 
 ---
