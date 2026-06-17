@@ -51,6 +51,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/InzmamKhan/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -236,6 +237,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
