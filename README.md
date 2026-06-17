@@ -52,6 +52,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0485-max-consecutive-ones](https://github.com/InzmamKhan/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/InzmamKhan/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -124,6 +125,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/InzmamKhan/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/InzmamKhan/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -272,6 +274,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
