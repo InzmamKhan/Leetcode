@@ -53,6 +53,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/InzmamKhan/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -83,6 +84,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -126,6 +128,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/InzmamKhan/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/InzmamKhan/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -241,6 +244,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/InzmamKhan/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
