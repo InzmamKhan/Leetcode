@@ -102,6 +102,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Math
@@ -219,6 +220,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0345-reverse-vowels-of-a-string](https://github.com/InzmamKhan/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
