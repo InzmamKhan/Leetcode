@@ -55,6 +55,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -85,6 +86,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -185,6 +187,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0278-first-bad-version](https://github.com/InzmamKhan/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/InzmamKhan/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -283,6 +286,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
