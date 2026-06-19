@@ -56,6 +56,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/InzmamKhan/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -421,6 +422,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/InzmamKhan/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/InzmamKhan/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
