@@ -91,6 +91,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -171,6 +172,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/InzmamKhan/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/InzmamKhan/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -303,6 +305,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
