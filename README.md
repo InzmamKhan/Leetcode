@@ -8,9 +8,9 @@ This repository serves as a personal archive for Java-based solutions to various
 
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | 71 | 19 June 2026 |
-| 🟡 **Medium** | 42 | 18 June 2026 |
-| 🔴 **Hard** | 10 | 20 June 2026 |
+| 🟢 **Easy** | 72 | 20 June 2026 |
+| 🟡 **Medium** | 43 | 22 June 2026 |
+| 🔴 **Hard** | 11 | 23 June 2026 |
 
 ---
 
