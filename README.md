@@ -71,6 +71,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/InzmamKhan/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -209,6 +210,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
@@ -262,6 +264,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/InzmamKhan/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -467,6 +470,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1046-last-stone-weight](https://github.com/InzmamKhan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -493,8 +497,14 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
