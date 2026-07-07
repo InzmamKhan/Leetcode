@@ -2,15 +2,14 @@
 
 This repository serves as a personal archive for Java-based solutions to various LeetCode challenges. It documents my progress in mastering data structures and algorithms, focusing on clean, efficient code and serving as a quick-reference guide for technical interview preparation.
 
----
 
 ## 📊 Progress Dashboard
 
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | 72 | 20 June 2026 |
-| 🟡 **Medium** | 43 | 22 June 2026 |
-| 🔴 **Hard** | 11 | 23 June 2026 |
+| 🟢 **Easy** | 74 | 20 June 2026 |
+| 🟡 **Medium** | 51 | 22 June 2026 |
+| 🔴 **Hard** | 15 | 23 June 2026 |
 
 ---
 
