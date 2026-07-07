@@ -1,21 +1,18 @@
 class Solution {
     public long sumAndMultiply(int n) {
+        String s = Integer.toString(n);
         long x = 0;
         long sum = 0;
-        long placeValue = 1;
-
-        while (n > 0) {
-            int digit = n % 10;
+        
+        for (int i = 0; i < s.length(); i++) {
+            int digit = s.charAt(i) - '0';
             
             if (digit != 0) {
-                x = (digit * placeValue) + x;
+                x = x * 10 + digit;
                 sum += digit;
-                placeValue *= 10;
             }
-            
-            n /= 10;
         }
-
+        
         return x * sum;
     }
 }
