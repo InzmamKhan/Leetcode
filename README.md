@@ -72,6 +72,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -216,6 +217,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -257,6 +259,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
@@ -271,6 +274,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/InzmamKhan/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -290,6 +294,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/InzmamKhan/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -305,6 +310,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +335,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting
@@ -512,6 +519,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/InzmamKhan/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
