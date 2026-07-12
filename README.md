@@ -57,6 +57,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1046-last-stone-weight](https://github.com/InzmamKhan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/InzmamKhan/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -100,6 +101,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/InzmamKhan/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -331,6 +333,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
