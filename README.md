@@ -72,6 +72,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -154,6 +155,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1344-angle-between-hands-of-a-clock](https://github.com/InzmamKhan/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/InzmamKhan/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/InzmamKhan/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -276,6 +278,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/InzmamKhan/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -461,6 +464,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/InzmamKhan/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
