@@ -111,6 +111,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/InzmamKhan/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -210,6 +211,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/InzmamKhan/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/InzmamKhan/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -320,6 +322,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -364,6 +367,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/InzmamKhan/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -374,6 +378,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
