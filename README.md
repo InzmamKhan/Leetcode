@@ -49,6 +49,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/InzmamKhan/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/InzmamKhan/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -159,6 +160,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/InzmamKhan/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/InzmamKhan/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -192,6 +194,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/InzmamKhan/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -521,6 +525,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/InzmamKhan/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
