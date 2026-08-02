@@ -55,6 +55,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1046-last-stone-weight](https://github.com/InzmamKhan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -163,6 +164,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/InzmamKhan/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/InzmamKhan/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -304,6 +306,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -526,6 +529,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0292-nim-game](https://github.com/InzmamKhan/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
