@@ -60,6 +60,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1046-last-stone-weight](https://github.com/InzmamKhan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/InzmamKhan/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/InzmamKhan/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/InzmamKhan/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -116,6 +117,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/InzmamKhan/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/InzmamKhan/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/InzmamKhan/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -340,6 +342,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0605-can-place-flowers](https://github.com/InzmamKhan/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/InzmamKhan/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/InzmamKhan/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/InzmamKhan/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/InzmamKhan/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/InzmamKhan/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -361,6 +364,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/InzmamKhan/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/InzmamKhan/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
