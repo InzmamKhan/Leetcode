@@ -235,6 +235,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/InzmamKhan/Leetcode-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/InzmamKhan/Leetcode-java/tree/main/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/InzmamKhan/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/InzmamKhan/Leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/InzmamKhan/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -338,6 +339,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0045-jump-game-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/InzmamKhan/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/InzmamKhan/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/InzmamKhan/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
