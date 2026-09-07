@@ -243,6 +243,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0389-find-the-difference](https://github.com/InzmamKhan/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/InzmamKhan/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/InzmamKhan/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/InzmamKhan/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/InzmamKhan/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/InzmamKhan/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -345,6 +346,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0397-integer-replacement](https://github.com/InzmamKhan/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/InzmamKhan/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
