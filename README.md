@@ -194,6 +194,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/InzmamKhan/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/InzmamKhan/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/InzmamKhan/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/InzmamKhan/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -356,6 +357,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0940-distinct-subsequences-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/InzmamKhan/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -604,6 +606,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/InzmamKhan/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/InzmamKhan/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -668,6 +671,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/InzmamKhan/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
