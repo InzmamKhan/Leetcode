@@ -247,6 +247,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0006-zigzag-conversion](https://github.com/InzmamKhan/Leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/InzmamKhan/Leetcode-java/tree/main/0012-integer-to-roman/) | Medium |
+| [0020-valid-parentheses](https://github.com/InzmamKhan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/InzmamKhan/Leetcode-java/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/InzmamKhan/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
@@ -469,6 +470,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/InzmamKhan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -726,5 +728,6 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/InzmamKhan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/InzmamKhan/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
