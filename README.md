@@ -80,6 +80,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2574-left-and-right-sum-differences](https://github.com/InzmamKhan/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/InzmamKhan/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/InzmamKhan/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/InzmamKhan/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/InzmamKhan/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -141,6 +142,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/InzmamKhan/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/InzmamKhan/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/InzmamKhan/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/InzmamKhan/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/InzmamKhan/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -578,10 +580,12 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
