@@ -99,6 +99,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -153,6 +154,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3483-unique-3-digit-even-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/InzmamKhan/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/InzmamKhan/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -474,6 +476,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/InzmamKhan/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/InzmamKhan/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/InzmamKhan/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
