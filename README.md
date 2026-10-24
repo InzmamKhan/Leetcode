@@ -104,6 +104,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3620-network-recovery-pathways](https://github.com/InzmamKhan/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/InzmamKhan/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/InzmamKhan/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/InzmamKhan/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -448,6 +449,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3513-number-of-unique-xor-triplets-i](https://github.com/InzmamKhan/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/InzmamKhan/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/InzmamKhan/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
