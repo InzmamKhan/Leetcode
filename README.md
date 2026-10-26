@@ -59,6 +59,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0877-stone-game](https://github.com/InzmamKhan/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/InzmamKhan/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1046-last-stone-weight](https://github.com/InzmamKhan/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/InzmamKhan/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/InzmamKhan/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/InzmamKhan/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -457,6 +458,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/InzmamKhan/Leetcode-java/tree/main/0048-rotate-image/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/InzmamKhan/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/InzmamKhan/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -542,6 +544,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0144-binary-tree-preorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/InzmamKhan/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/InzmamKhan/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/InzmamKhan/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/InzmamKhan/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/InzmamKhan/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -586,6 +589,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0226-invert-binary-tree](https://github.com/InzmamKhan/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/InzmamKhan/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/InzmamKhan/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/InzmamKhan/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/InzmamKhan/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/InzmamKhan/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/InzmamKhan/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -716,6 +720,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/InzmamKhan/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/InzmamKhan/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/InzmamKhan/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/InzmamKhan/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
