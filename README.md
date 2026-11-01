@@ -48,6 +48,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0219-contains-duplicate-ii](https://github.com/InzmamKhan/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/InzmamKhan/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/InzmamKhan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/InzmamKhan/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/InzmamKhan/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -206,6 +207,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0326-power-of-three](https://github.com/InzmamKhan/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/InzmamKhan/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/InzmamKhan/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/InzmamKhan/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/InzmamKhan/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/InzmamKhan/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
