@@ -96,6 +96,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [3312-sorted-gcd-pair-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/InzmamKhan/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/InzmamKhan/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -322,6 +323,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InzmamKhan/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/InzmamKhan/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/InzmamKhan/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/InzmamKhan/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -541,6 +543,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/InzmamKhan/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/InzmamKhan/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +639,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -738,6 +742,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/InzmamKhan/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,4 +829,12 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/InzmamKhan/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/InzmamKhan/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
