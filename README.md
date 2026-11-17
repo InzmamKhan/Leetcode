@@ -300,6 +300,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/InzmamKhan/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/InzmamKhan/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/InzmamKhan/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/InzmamKhan/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/InzmamKhan/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -392,6 +393,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/InzmamKhan/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/InzmamKhan/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/InzmamKhan/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/InzmamKhan/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -420,6 +422,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/InzmamKhan/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/InzmamKhan/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/InzmamKhan/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
