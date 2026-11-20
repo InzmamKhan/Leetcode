@@ -86,6 +86,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/InzmamKhan/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/InzmamKhan/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/InzmamKhan/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/InzmamKhan/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/InzmamKhan/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/InzmamKhan/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -423,6 +424,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/InzmamKhan/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/InzmamKhan/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/InzmamKhan/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/InzmamKhan/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/InzmamKhan/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/InzmamKhan/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -517,6 +519,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [2333-minimum-sum-of-squared-difference](https://github.com/InzmamKhan/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/InzmamKhan/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/InzmamKhan/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/InzmamKhan/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/InzmamKhan/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
